@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity"
+    android:background="#DCFF7B"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/imageLogo"
+        android:layout_width="89dp"
+        android:layout_height="124dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        android:background="#DCFF7B"
+        android:scaleType="centerCrop"
+        android:src="@drawable/google_form" />
+
+    <TextView
+        android:layout_width="230dp"
+        android:id="@+id/textAppName"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="@string/form_ui"
+        android:textSize="50sp"
+        android:textStyle="bold"
+       android:textColor="#000"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/abhishek_kumar"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="230dp"
+        android:fontFamily="sans-serif-black"
+        android:textColor="#0029F6"/>
+
+
+
+
+
+</LinearLayout>
