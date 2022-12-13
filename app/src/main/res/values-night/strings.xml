@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="operational_detail">OPERATIONAL DETAIL</string>
+    <string name="please_tick_this_box_if_you_provide_self_delivery_services">Please tick this box if you provide Self Delivery Services</string>
+    <string name="set_correct_location">SET CORRECT LOCATION</string>
+    <string name="weekly_close_day">Weekly Close Day</string>
+    <string name="time_to_close">Time To Close</string>
+    <string name="time_to_open">Time To Open</string>
+    <string name="cuisine">Cuisine</string>
+    <string name="store_complete_address">Store Complete Address</string>
+    <string name="restaurant_cloud_kitchen_etc">Restaurant/Cloud Kitchen etc</string>
+    <string name="location">Location</string>
+    <string name="restaurant_store_name">Restaurant/Store Name</string>
+    <string name="bank_upi_code">Bank UPI Code</string>
+    <string name="bank_branch_address">Bank Branch Address</string>
+    <string name="bank_ifsc_code">Bank IFSC Code</string>
+    <string name="bank_a_c_number">Bank A/c Number</string>
+    <string name="gst_no_optional">GST no.(optional)</string>
+    <string name="fssai_number">FSSAI Number</string>
+    <string name="adhar_number">Adhar Number</string>
+    <string name="pan_number">Pan Number</string>
+    <string name="age">Age</string>
+    <string name="vendorname">VendorName</string>
+    <string name="e_mail">e-Mail</string>
+    <string name="mobile_number">mobile number</string>
+    <string name="bank_name">Bank Name</string>
+    <string name="a_c_holder_name">A/c Holder Name</string>
+</resources>
